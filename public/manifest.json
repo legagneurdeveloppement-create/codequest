@@ -1,0 +1,20 @@
+{
+  "name": "CodeQuest — Apprendre à coder",
+  "short_name": "CodeQuest",
+  "description": "Plateforme interactive et gamifiée pour apprendre à coder : JavaScript, HTML/CSS, défis, badges et XP.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0a14",
+  "theme_color": "#facc15",
+  "lang": "fr",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

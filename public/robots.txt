@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# CodeQuest — plateforme d'apprentissage du code
+# Toutes les pages sont publiques.
